@@ -34,5 +34,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/aditianurwansyah/UTS_PBO2_TIF_RP_23_CNS-A_23552011329">Github</a></li> 
-  <li>Youtube: <a href="youtube.com/@aditia_n1sy">Youtube</a></li> 
+  <li>Youtube: <a href="https://www.youtube.com/@aditia_n1sy">Youtube</a></li>  
 </ul>
