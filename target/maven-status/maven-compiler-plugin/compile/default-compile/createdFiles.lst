@@ -1,0 +1,12 @@
+com\mycompany\project_uts_pbo2\DatabaseConnection.class
+com\mycompany\project_uts_pbo2\Kesehatan.class
+com\mycompany\project_uts_pbo2\KlaimDAO.class
+com\mycompany\project_uts_pbo2\Klaim.class
+com\mycompany\project_uts_pbo2\Polis.class
+com\mycompany\project_uts_pbo2\PolisDAO.class
+com\mycompany\project_uts_pbo2\Nasabah.class
+com\mycompany\project_uts_pbo2\Asuransi.class
+com\mycompany\project_uts_pbo2\LayananAsuransi.class
+com\mycompany\project_uts_pbo2\NasabahDAO.class
+com\mycompany\project_uts_pbo2\Jiwa.class
+com\mycompany\project_uts_pbo2\Project_UTS_PBO2.class
